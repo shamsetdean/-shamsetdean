@@ -16,7 +16,7 @@
 
 | Projet | Description | Stack | Statut |
 |--------|-------------|-------|--------|
-| [Hum{i}An](https://shamsetdean.github.io/humiAn/) | Publication digitale indépendante — explorer, comprendre, questionner. 43+ articles JSON. | HTML · CSS · JS · GitHub Pages | Actif |
+| [Hum{i}An](https://shamsetdean.github.io/humiAn/) | Publication digitale indépendante — explorer, comprendre, questionner. 43+ articles JSON. | HTML · CSS · JS · GitHub Pages | Beta |
 | [Codex](https://shamsetdean.github.io/codex/) | Bibliothèque du domaine public — 458 œuvres libres. | HTML · CSS · JS · GitHub Pages | Stable |
 | [Fabulae](https://fabulae.vercel.app/) | Top 3 des séries du moment — sans compte, sans collecte. PWA mobile-first. | PWA · TMDB API · Vercel | Beta |
 | [Synapse](https://synapse-kohl-eta.vercel.app/) | Veille et agrégation d'actualités en temps réel — IA appliquée. | TypeScript · IA · Vercel | Beta |
@@ -27,7 +27,7 @@
 |--------|-------------|-------|--------|
 | [Scribe](https://shamsetdean.github.io/scribe/) | Générateur de CV 100% local, zéro tracker, zéro transmission. | HTML · CSS · JS · GitHub Pages | Stable |
 | [Didici](https://shamsetdean.github.io/didici/) | Apprentissage quotidien sans friction, sans compte à créer. | HTML · CSS · JS · GitHub Pages | Non audité |
-| [simul](https://shamsetdean.github.io/simul/) | Capture de souvenirs à deux points de vue simultanés. PWA locale. | PWA · JS · GitHub Pages | Actif |
+| [simul](https://shamsetdean.github.io/simul/) | Capture de souvenirs à deux points de vue simultanés. PWA locale. | PWA · JS · GitHub Pages | Beta |
 | [Clavium](https://shamsetdean.github.io/clavium/) | Armoire à clés numérique — gestion multi-utilisateurs d'accès physiques. | JS · Supabase · QR | Beta |
 | [exceptōr](https://shamsetdean.github.io/except-r/) | Secrétaire de séance automatisé — transcription et mise en forme. | JS · IA · Transcription | Beta |
 
@@ -37,13 +37,13 @@
 |--------|-------------|-------|--------|
 | [SENTINEL](https://shamsetdean.github.io/sentinel/) | Diagnostic système local — sécurité, performance, batterie, stockage. 240+ métriques, 4 OS. Rapport HTML généré en local, aucune donnée transmise. | Python · HTML · Scripting | Stable v3.28 |
 | [Talaria](https://talaria-iota.vercel.app/) | Transports en commun Île-de-France — sans compte, sans pub, sans collecte. | PWA · IDFM/PRIM · OSM · Open-Meteo · Vercel | Beta |
-| [iter](https://iter-alpha.vercel.app/) | Enregistrement et optimisation d'itinéraires GPS — 100% local, zéro transmission. | JS · MapLibre · PWA · Vercel | Actif |
+| [iter](https://iter-alpha.vercel.app/) | Enregistrement et optimisation d'itinéraires GPS — 100% local, zéro transmission. | JS · MapLibre · PWA · Vercel | Beta |
 
 ### D — Infrastructure & Concept
 
 | Projet | Description | Stack | Statut |
 |--------|-------------|-------|--------|
-| [π.stream](https://shamsetdean.github.io/pi-stream/) | Diffusion vidéo automatisée NYC → Paris, 24/7. | Raspberry Pi · Python · Streaming | Actif NYC |
+| [π.stream](https://shamsetdean.github.io/pi-stream/) | Diffusion vidéo automatisée NYC → Paris, 24/7. | Raspberry Pi · Python · Streaming | Beta |
 | [LégaleInk](https://shamsetdean.github.io/legaleink/) | Conformité RGPD aussi invisible qu'une mise à jour système. Concept e-ink. | HTML · CSS · JS | Concept |
 | [UfindGo](https://shamsetdean.github.io/vacuum/) | Trouver une place libre ou un lieu utile en temps réel — par la communauté, sans compte. | OSM · Firebase · HTML · JS | Beta |
 
